@@ -1,6 +1,6 @@
 # latihan
 
-A new Flutter project.
+Dasar Pemrograman Mobile menggunakan Flutter
 
 ## Getting Started
 
