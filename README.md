@@ -1,4 +1,4 @@
-# latihan
+# Pertemuan 2
 
 Dasar Pemrograman Mobile menggunakan Flutter
 
